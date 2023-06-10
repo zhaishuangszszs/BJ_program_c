@@ -1,0 +1,3 @@
+/home/zs/BJ_c/lab2/partC/CMakeFiles/partC_analysis.dir
+/home/zs/BJ_c/lab2/partC/CMakeFiles/edit_cache.dir
+/home/zs/BJ_c/lab2/partC/CMakeFiles/rebuild_cache.dir

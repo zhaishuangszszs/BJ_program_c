@@ -1,0 +1,3 @@
+/home/zs/BJ_c/src/CMakeFiles/shell.dir
+/home/zs/BJ_c/src/CMakeFiles/edit_cache.dir
+/home/zs/BJ_c/src/CMakeFiles/rebuild_cache.dir

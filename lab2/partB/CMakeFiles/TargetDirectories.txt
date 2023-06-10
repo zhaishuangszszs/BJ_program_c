@@ -1,0 +1,3 @@
+/home/zs/BJ_c/lab2/partB/CMakeFiles/miniWireShark.dir
+/home/zs/BJ_c/lab2/partB/CMakeFiles/edit_cache.dir
+/home/zs/BJ_c/lab2/partB/CMakeFiles/rebuild_cache.dir
